@@ -2,23 +2,23 @@ import turtle as trtl #Importing Turtle
 painter = trtl.Turtle()
 
 painter.speed(0)
+x=10
+y=90
+z=0
 
-
-p=4
-z=90
-y=0
-x=90
-n=True
-while n:
+while True:
+    
     painter.forward(x)
-    painter.right(z)
-    y=y+1
-    if y%p==0:
-        x=x-20
-        if x<=-600:
-            n=False
+    painter.left(90)
+    
+    x=x+10
+    z=z+0.23
+    if z>=30:
+        break
 
-  
+
+wn = trtl.Screen()
+wn.mainloop()
 
 
     
