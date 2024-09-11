@@ -35,7 +35,32 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 4. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/728c751a6c4145bea0ea83c5058fb9f9#44b0003a2ee14fcc9865e7bb5faec747)
 5. Answer to step 21
-6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
-7. Give an example of an undecidable problem, attach code.
+6. Insert a screenshot or picture of the algorithm you used for your tokenizer on the previous activity.
+7. Give an example of an undecidable problem, and attach code.
+
+
+
+|0 iteration condition|infinite loop condition|
+|--|--|
+|A 0 iteration loop is a loop that never runs and contains a value of 0. It is used when you need something to check all of your requirements but you don't want to change anything. Many video games use this to store data. "for i in range(0): print(I)". This is an example of it and we can see the number 0 is being used. 0 indicates to the for loop that the function will not output anything because of that 0. This is what the 0 iteration does.| An infinite loop is when a loop keeps on going and never stops. This will continue to happen if the loop is True. Once it becomes false, the loop will break. "while True: print("This will print forever")". This is an example of an infinite loop that goes until the boolean becomes false. If it is false the code will stop, but if it is true - the code will countinue. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/e0eaec5f-87a8-47dd-b56e-10722c35471f)
 
