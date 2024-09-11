@@ -42,7 +42,16 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 |0 iteration condition|infinite loop condition|
 |--|--|
-|A 0 iteration loop is a loop that never runs and contains a value of 0. It is used when you need something to check all of your requirements but you don't want to change anything. Many video games use this to store data. "for i in range(0): print(I)". This is an example of it and we can see the number 0 is being used. 0 indicates to the for loop that the function will not output anything because of that 0. This is what the 0 iteration does.| An infinite loop is when a loop keeps on going and never stops. This will continue to happen if the loop is True. Once it becomes false, the loop will break. "while True: print("This will print forever")". This is an example of an infinite loop that goes until the boolean becomes false. If it is false the code will stop, but if it is true - the code will countinue. |
+|A 0 iteration loop is a loop that never runs and contains a value of 0. It is used when you need something to check all of your requirements but you don't want to change anything. Many video games use this to store data. "for i in range(0): print(I)". This is an example of it and we can see the number 0 is being used. 0 indicates to the for loop that the function will not output anything because of that 0. This is what the 0 iteration does.| An infinite loop is when a loop keeps on going and never stops. This will continue to happen if the loop is True. Once it becomes false, the loop will break. "while True: print("This will print forever")". This is an example of an infinite loop that goes until the boolean becomes false. If it is false the code will stop, but if it is true - the code will continue. |
+
+|Equidistant code|<img width="1392" alt="Screenshot 2024-09-11 at 4 31 05 PM" src="https://github.com/user-attachments/assets/1dadff25-480f-4217-bf40-b6b380cec919">|
+|--|--|
+|Another example| <img width="1346" alt="Screenshot 2024-09-11 at 4 39 39 PM" src="https://github.com/user-attachments/assets/3e3a88b8-85fd-4a3c-9aff-7c325fb317d1">|
+|Explain| Both of these screenshots show examples from my code and you can see what happens when the user inputs 3 or 5. One key point to notice is the shapes are all equidistant from each other meaning they are the same distance apart from all of the values. This was the goal and I have achieved it. The way I did this was using nested for loops. I had a main for loop and then kept multiple indented in the main. This let me create the number of shapes needed and most importantly let me position it in a way where I could satisfy the user with any number 1-5.|
+|![Screenshot 2024-09-11 at 4 43 33 PM](https://github.com/user-attachments/assets/9f45ada2-2e76-4dfc-972d-87f72c109033)| This is of the many nested for loops I had. To explain more, the beginning of the loop was added so I could determine how many squares I would need to make this code work. Then the for loop (nested) was there to create the actul sqaure. I set the nested for loops range to 4 so it could repeat and this would help create a sqaure.|
+
+
+
 
 
 
