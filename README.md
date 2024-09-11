@@ -48,7 +48,7 @@ Use the forward() and right() methods to draw the sides of the squares.
 |--|--|
 |Another example| <img width="1346" alt="Screenshot 2024-09-11 at 4 39 39 PM" src="https://github.com/user-attachments/assets/3e3a88b8-85fd-4a3c-9aff-7c325fb317d1">|
 |Explain| Both of these screenshots show examples from my code and you can see what happens when the user inputs 3 or 5. One key point to notice is the shapes are all equidistant from each other meaning they are the same distance apart from all of the values. This was the goal and I have achieved it. The way I did this was using nested for loops. I had a main for loop and then kept multiple indented in the main. This let me create the number of shapes needed and most importantly let me position it in a way where I could satisfy the user with any number 1-5.|
-|![Screenshot 2024-09-11 at 4 43 33 PM](https://github.com/user-attachments/assets/9f45ada2-2e76-4dfc-972d-87f72c109033)| This is of the many nested for loops I had. To explain more, the beginning of the loop was added so I could determine how many squares I would need to make this code work. Then the for loop (nested) was there to create the actul sqaure. I set the nested for loops range to 4 so it could repeat and this would help create a sqaure.|
+|![Screenshot 2024-09-11 at 4 43 33 PM](https://github.com/user-attachments/assets/9f45ada2-2e76-4dfc-972d-87f72c109033)| This is of the many nested for loops I had. To explain more, the beginning of the loop was added so I could determine how many squares I would need to make this code work. Then the for loop (nested) was there to create the actual square. I set the nested for loops range to 4 so it could repeat and this would help create a square.|
 
 
 
@@ -60,16 +60,9 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 
 
+|Cocentric squares Project|![image](https://github.com/user-attachments/assets/e0eaec5f-87a8-47dd-b56e-10722c35471f)| 
+|--|--|
+|Explain|The co-centric squares project was difficult at first but I realized it is just math. I just added to add 10 to every time my code made a 90-degree turn. This would lead my squares to keep on increasing and this is how the line was created. I used a while loop to let this be possible. A while loop allowed my code to keep on going forever. When the square reached the top, I made a function to break the code. This is how I stopped the while loop. After finding out what to do, this assignment became fairly easy and it's cool how much math can contribute to coding.  |
+|Code|![Screenshot 2024-09-11 at 4 51 44 PM](https://github.com/user-attachments/assets/4bcb9e10-667b-41dd-848b-dfcccef782ee)|
 
-
-
-
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/e0eaec5f-87a8-47dd-b56e-10722c35471f)
 
