@@ -62,7 +62,18 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 |Cocentric squares Project|![image](https://github.com/user-attachments/assets/e0eaec5f-87a8-47dd-b56e-10722c35471f)| 
 |--|--|
-|Explain|The co-centric squares project was difficult at first but I realized it is just math. I just added to add 10 to every time my code made a 90-degree turn. This would lead my squares to keep on increasing and this is how the line was created. I used a while loop to let this be possible. A while loop allowed my code to keep on going forever. When the square reached the top, I made a function to break the code. This is how I stopped the while loop. After finding out what to do, this assignment became fairly easy and it's cool how much math can contribute to coding.  |
+|Explain|The co-centric squares project was difficult initially, but I realized it was just math. I just added to add 10 to every time my code made a 90-degree turn. This would lead my squares to keep on increasing and this is how the line was created. I used a while loop to make this possible. A while loop allowed my code to keep on going forever. When the square reached the top, I made a function to break the code. This is how I stopped the while loop. After finding out what to do, this assignment became fairly easy and it's cool how much math can contribute to coding.  |
 |Code|![Screenshot 2024-09-11 at 4 51 44 PM](https://github.com/user-attachments/assets/4bcb9e10-667b-41dd-848b-dfcccef782ee)|
+
+|My PlTW code|<img width="1429" alt="Screenshot 2024-09-12 at 9 11 07 PM" src="https://github.com/user-attachments/assets/aaed746b-f9fa-46fa-bf43-eff7cad688db">|
+|--|--|
+|Explain|This code was created when I had to follow the steps of the PLTW online textbook and create code that would make this pattern. I could have made this pattern go on forever, I halted the code when it reached the end of the screen. This would make the code more efficient and I feel it's harder to keep the loop going. Breaking the code was fairly simple; I set a variable to count how many times it would print it and I put it to a number so when the program ran that many times, it was the right amount to shut down the code. This is how I used the break function. This project was fun and it's cool to see the possibilities of code you can achieve with a while loop|
+|Answer to step 21| The question was asking to me find out what the flowchart on PLTW's textbook outputted represented. The flowchart had if conditions and also used a break function at the end. This was an interesting flowchart because I felt like I had completed it. It represented the code for the equidistant circles. This was the blueprint for that code and that is what the flowchart repersented.|
+|Algorithim Used|![Screenshot 2024-09-12 at 9 21 57 PM](https://github.com/user-attachments/assets/d4507ff0-732b-497f-843a-a6e63f40feeb)|
+|Explain| The algorithm I used for my previous code or the equidistant program was the procedure algorithm. This algorithm is step-by-step and even though the code may be extra, it tells the viewer exactly what I've done and it is easy to understand it. I have been using this algorithm for a while so it is my favorite algorithm and the one I am most comfortable with. |
+|Undeciable problem| A problem where no algorithm can determine an answer and the code either breaks or goes on forever. Using chatgbt, one example of this code is the halting problem. The problem is determining if the code will run forever or break. No algorithm can solve this code. |
+|Screenshot|<img width="536" alt="Screenshot 2024-09-12 at 9 28 35 PM" src="https://github.com/user-attachments/assets/212c31d3-7c3d-49a9-b47f-f002e7e95d9b">|
+
+
 
 
